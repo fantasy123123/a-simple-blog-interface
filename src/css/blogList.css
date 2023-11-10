@@ -1,0 +1,18 @@
+.arco-comment-author{
+    font-size: 18px;
+    color: black;
+}
+
+.arco-comment-datetime{
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.custom-comment-action{
+    font-size: 18px;
+}
+
+.arco-icon-empty{
+    height: 60px;
+    width: 60px;
+}
